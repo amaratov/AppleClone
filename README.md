@@ -1,1 +1,1 @@
-
+This project replicates Apple's iPhone 15 Pro website using React.js and TailwindCSS. It demonstrates the seamless integration of GSAP (Greensock Animations) and Three.js to showcase iPhone 15 Pro models in different colors and designs.
